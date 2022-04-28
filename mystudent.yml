@@ -1,0 +1,14 @@
+---
+- mystudents:
+    -name: anil
+    -phonenumber: 996786665
+
+- mystudents:
+    -name: balu
+    -phonenumber: 996786665
+    -address: hyderabad
+
+- mystudents:
+    -name: ravi
+    -phonenumber: 996786665
+    -address: hyderabad
